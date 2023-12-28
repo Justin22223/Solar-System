@@ -1,5 +1,5 @@
-### Project Synopsis
-## Project Title: Solar System
+## Project Synopsis
+### Project Title: Solar System
 
 ### Project Overview:
 The Solar System  transcends traditional astronomical education by delivering a rich and technical exploration of our cosmic surroundings. Leveraging advanced concepts in astrogeophysics, planetary science, and astrodynamics, this project aims to cater to a discerning audience seeking a detailed understanding of the Solar System's components. Each section of the guide is meticulously crafted to unveil the scientific intricacies behind planetary formation, atmospheric dynamics, and geological processes.
